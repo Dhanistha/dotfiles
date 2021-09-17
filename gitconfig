@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dhanishthag@gmail.com
+	name = dhanishtha goordoyal
